@@ -1,0 +1,20 @@
+FTP Port,20 21
+SSH Port,22
+SFTP Port,22
+Telnet Port,23
+SMTP Port,25
+DNS Port,53
+DHCP Port,67 68
+TFTP Port,69
+HTTP Port,80
+POP3 Port,110
+NTP Port,123
+NETBios Port,139
+IMAP Port,143
+SNMP Port,161
+LDAP Port,389
+HTTPS Port,443
+SMB Port,445
+LDAPS Port,636
+RDP Port,3389
+SIP Port,5060 5061

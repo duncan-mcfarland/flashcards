@@ -1,0 +1,11 @@
+802.3ad,Link Aggregation
+802.3af,POE
+802.3af wattage,15.4
+802.3at,POE+
+802.3at wattage,25.5
+802.1x,User Authentication
+802.1w,Rapid Spanning Tree Protocol
+802.1d,Spanning Tree Protocol
+802.1q,VLAN Trunking
+802.3,Ethernet
+802.11,Wifi

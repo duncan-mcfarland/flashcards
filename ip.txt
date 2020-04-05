@@ -1,0 +1,14 @@
+Public Class A range,1 126
+Public Class B range,128 191
+Public Class C range,192 223
+Private Class A range with x in variable portion - include CIDR,10.x.x.x/8
+Private Class B range with x in variable portion - include CIDR,172.16.x.x 172.31.x.x/12
+Private Class C range with x in variable portion - include CIDR,192.168.x.x/16
+IPV4 Loopback Address,127.0.0.1
+IPV4 APIPA range with x in variable portion,169.254.x.x
+IPV4 multicast x in variable with CIDR,224.x.x.x/4
+6to4 Relay anycast addresses x in variable with CIDR,192.88.99.x/24
+IPV6 Unicast Prefix range,2000 3999
+IPV6 Link Local prefix,FE80
+IPV6 Link Local routable prefix,FC
+IPV6 Multicast prefix,FF

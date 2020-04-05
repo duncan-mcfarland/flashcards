@@ -1,0 +1,107 @@
+OSI Layer 1,Physical
+OSI Layer 2,Data Link
+OSI Layer 3,Network
+OSI Layer 4,Transport
+OSI Layer 5,Session
+OSI Layer 6,Presentation
+OSI Layer 7,Application
+TCP/IP Layer 1,Network Interface
+TCP/IP Layer 2,Internet
+TCP/IP Layer 3,Transport
+TCP/IP Layer 4,Application
+Layer 1 Information,Bit
+Layer 2 Information,Frame
+Layer 3 Information,Packet
+Layer 4 Information,Segment
+Layers 5-7 Information,Data
+FTP Port,20 21
+SSH Port,22
+SFTP Port,22
+Telnet Port,23
+SMTP Port,25
+DNS Port,53
+DHCP Port,67 68
+TFTP Port,69
+HTTP Port,80
+POP3 Port,110
+NTP Port,123
+NETBios Port,139
+IMAP Port,143
+SNMP Port,161
+LDAP Port,389
+HTTPS Port,443
+SMB Port,445
+LDAPS Port,636
+RDP Port,3389
+SIP Port,5060 5061
+568B Pin 1,orange white
+568B Pin 2,orange
+568B Pin 3,green white
+568B Pin 4,blue
+568B Pin 5,blue white
+568B Pin 6,green
+568B Pin 7,brown white
+568B Pin 8,brown
+568A Pin 1,green white 
+568A Pin 2,green
+568A Pin 3,orange white
+568A Pin 4,blue
+568A Pin 5,blue white
+568A Pin 6,orange
+568A Pin 7,brown white
+568A Pin 8,white brown
+CAT3 Throughput,10
+CAT5 Throughput,100
+CAT5e Throughput,1000
+CAT6 Throughput,1000
+CAT6a Throughput,10000
+CAT7 Throughput,10000
+Copper cable range in meters,100
+Public Class A range,1 126
+Public Class B range,128 191
+Public Class C range,192 223
+Private Class A range with x in variable portion - include CIDR,10.x.x.x/8
+Private Class B range with x in variable portion - include CIDR,172.16.x.x 172.31.x.x/12
+Private Class C range with x in variable portion - include CIDR,192.168.x.x/16
+IPV4 Loopback Address,127.0.0.1
+IPV4 APIPA range with x in variable portion,169.254.x.x
+IPV6 Unicast Prefix range,2000 3999
+IPV6 Link Local prefix,FE80
+IPV6 Multicast prefix,FF
+802.11b speed,11
+802.11g speed,54
+802.11n speed,300
+802.11a speed,54
+802.11ac speed (include unit),3gbps
+802.11b frequency,2.4
+802.11g frequency,2.4
+802.11n frequency,2.4 5
+802.11a frequency,5
+802.11ac frequency,5
+Most secure WIFI uses,WPA2
+Most insecure WIFI uses,WEP
+802.3ad,Link Aggregation
+802.3af,POE
+802.3af wattage,15.4
+802.3at,POE+
+802.3at wattage,25.5
+802.1x,User Authentication
+802.1d,Spanning Tree Protocol
+802.1q,VLAN Trunking
+802.3,Ethernet
+802.11,Wifi
+10BaseT cable type (no space),cat3
+100BaseTX cable type (no space),cat5
+1000BaseTX cable type (no space),cat6
+1000BaseSX cable type,MMF
+1000BaseLX with 550m run cable type,MMF
+1000BaseLX with 5km run cable type,SMF
+1000BaseZX cable type,SMF
+UTP cable run length in meters,100
+1000BaseSX MMF run length (meters),220
+1000BaseLX using MMF run length (meters),550
+1000BaseLX using SMF run length (km),5
+1000BaseZX run length (km),70
+Which fiber tech doesn't using SMF,1000BaseSX
+SOHO stands for,small office home office
+DSSS FHSS OFDM are used in,wireless
